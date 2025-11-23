@@ -1,0 +1,31 @@
+{
+  "generated": "2025-11-23T18:27:38.600Z",
+  "count": 5,
+  "nicknames": [
+    {
+      "id": 1,
+      "nickname": "Волк_Земли",
+      "style": "mystic"
+    },
+    {
+      "id": 2,
+      "nickname": "Видение_Болот",
+      "style": "warrior"
+    },
+    {
+      "id": 3,
+      "nickname": "Невероятный_Рыцарь",
+      "style": "warrior"
+    },
+    {
+      "id": 4,
+      "nickname": "Эхо_Пустыни",
+      "style": "mystic"
+    },
+    {
+      "id": 5,
+      "nickname": "Светлый_Маг",
+      "style": "mystic"
+    }
+  ]
+}
